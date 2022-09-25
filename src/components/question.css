@@ -1,0 +1,17 @@
+#question{
+    background-color: darkblue;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+#question p{
+    margin-bottom: .8rem;
+}
+
+#question h2{
+    margin-bottom: .8rem;
+}
+
+#question button{
+    border: 2px solid #FFF;
+}
